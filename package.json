@@ -7,7 +7,6 @@
         "name": "Patrik Šimunič",
         "email": "patriksimunic@hotmail.com"
     },
-    "main": "snowpack.config.js",
     "scripts": {
         "start": "snowpack dev",
         "build": "snowpack build"
